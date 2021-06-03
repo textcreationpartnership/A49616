@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Lash to disloyalty</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49616</idno><idno type="EEBO-CITATION">18368173</idno>
+  <idno type="VID">107398</idno>
+  <idno type="EEBO-PROQUEST">2240852855</idno>
+  
+            <idno type="STC">Wing L462B</idno>
+            <idno type="STC">ESTC R39325</idno>
+            <idno type="OCLC">18368173</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107398)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Lash to disloyalty</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p. )   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N.T. ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1983 [i.e. 1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:107398:1"/>
+            <head>A Lash to Disloyalty.</head>
+            <lg>
+               <l>ROuze, rouze my Muse! Why dost thou silent lie,</l>
+               <l>When Truth's oppress'd, &amp; Mischief soars so high?</l>
+               <l>Rouze then! and lash with thy severest Rage</l>
+               <l>Th'Ingratitude of a <hi>Rebellious Age:</hi>
+               </l>
+               <l>O how Unhappy 'tis, and Dismal, for to see</l>
+               <l>This one poor Nation, not from Discord free!</l>
+               <l>What hellish Furies does possess your minds,</l>
+               <l>That thus to <hi>Plotting</hi> you are so inclin'd,</l>
+               <l>Against your KING, so <hi>Innocent</hi> and <hi>Just,</hi>
+               </l>
+               <l>Whose chief delight was to maintain your Trust?</l>
+               <l>Inhumane Vipers! still Plot with strife</l>
+               <l>To take away your great Preservers Life!</l>
+               <l>Have you not rais'd your Fortunes by your Prince?</l>
+               <l>And now to seek his Life! O Impudence</l>
+               <l>Of Men! What Crime did He,</l>
+               <l>That you should thus design his Injury?</l>
+               <lg>
+                  <l>If He at first severity had shown,</l>
+                  <l>None would presum'd for to usurp the Throne,</l>
+                  <l>Nor yet to aim so high to wear the Crown.</l>
+               </lg>
+               <l>Those foolish men who do such courses take,</l>
+               <l>may curse their first-born day, and cruel Fate,</l>
+               <l>Which first misled by Pride, whose sublime Wings</l>
+               <l>Caus'd the conspiring gainst so good a King.</l>
+            </lg>
+            <lg>
+               <l>Insatiate <hi>Monmouth!</hi> what made Thee conspire,</l>
+               <l>When Thou hadst all things to thy hearts desire,</l>
+               <l>Except a Crown? which not being thine by Birth,</l>
+               <l>Thou thoughtst to gain it by thy Fathers Death.</l>
+               <l>Thy lofty Pride, and too too rigid ways,</l>
+               <l>If thou repent not, will make short thy days:</l>
+               <l>Therefore beware, let no such thought ensue,</l>
+               <l>To mount you higher than what is your due;</l>
+               <l>But Trait'rous <hi>Armstrong</hi> was thy first undoing,</l>
+               <l>And, if forsaken not, will be thy Ruine;</l>
+               <l>'Twas He that did at first thy Thoughts mislead,</l>
+               <l>To have thy Royal Father murdered;</l>
+               <l>
+                  <hi>Icarus,</hi> with whom I may You well compare;</l>
+               <l>For He, regarding not his Fathers Care,</l>
+               <l>Mounting so high, although his wings so weak,</l>
+               <l>Which by the Sun, by its excessive heat,</l>
+               <l>Quite pierced were; so head-long in the Main</l>
+               <l>He tumbling down, the Waters bore his Name:</l>
+               <l>So first, had You your Fathers Councel took,</l>
+               <l>Your Native Land you need not have forsook:</l>
+               <lg>
+                  <pb facs="tcp:107398:2"/>
+                  <l>But Time will come, when You will curse the day</l>
+                  <l>That you your Father did not then obey,</l>
+                  <l>Will curse that <hi>Armstrong</hi> first led you astray.</l>
+               </lg>
+               <l>Had <hi>Armstrong</hi> first, (that Traytor) had his due,</l>
+               <l>He for his Crimes had suffer'd long ago;</l>
+               <l>Yet 'twas the goodness of a Gracious King</l>
+               <l>To spare his Life for his committed Sin;</l>
+               <l>And now to prove a Traytor! nay, the worst!</l>
+               <l>From Heaven surely he must be accurst;</l>
+               <l>For thus far God commands, as <hi>Fear</hi> to Him,</l>
+               <l>As for Obedience, <hi>Honour</hi> to the King.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Essex,</hi> whose Father was so brave and stout,</l>
+               <l>That to his last did for the King hold out;</l>
+               <l>To die he fairly came; yet fear'd not death,</l>
+               <l>But bravely for his Prince resign'd his Breath:</l>
+               <l>Such was his Courage, such his Noble mind,</l>
+               <l>That thought by Death immortal Life to find:</l>
+               <l>But He, as if to blast his Fathers ways,</l>
+               <l>Instead of <hi>Honour,</hi> got himself <hi>Dispraise:</hi>
+               </l>
+               <l>For when in <hi>Tower,</hi> where he lay convinc'd</l>
+               <l>Of the conspiring 'gainst his Royal Prince;</l>
+               <l>His troubl'd Conscience did him then accuse,</l>
+               <l>To think he should so good a King abuse;</l>
+               <l>His heart being broke, no longer could contend</l>
+               <l>From doing that which prov'd his Tragick end.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Now talk of <hi>Russel:</hi> now, O Muse, begin,</l>
+                  <l>Not for his Praise, but for his Guilt of Sin,</l>
+                  <l>In his contriving how to kill the King:</l>
+               </lg>
+               <l>So vain were all his thoughts, and eke so Vile,</l>
+               <l>As to press forward for the Dukes Exile:</l>
+               <l>A Prince whose Goodness and whose Greatness can</l>
+               <l>Scarcely be par'lell'd in the Age of Man:</l>
+               <l>Such was his Courage, when in War he fought,</l>
+               <l>That still he Honour to the Nation brought:</l>
+               <lg>
+                  <l>But <hi>Russel</hi>'s Pride it was the only thing,</l>
+                  <l>Which first conspiring caus'd against his King,</l>
+                  <l>And was the first Original of Sin.</l>
+               </lg>
+               <l>For 'twas by Pride he aim'd at things so high,</l>
+               <l>Which brought him thus so shamefully to die.</l>
+            </lg>
+            <lg>
+               <l>Live long the King, and keep him Heav'n, I pray,</l>
+               <l>From such that seek his Life to take away:</l>
+               <l>Increase his days, long flourish still his Crown,</l>
+               <l>That Peace and Truth may in the Land abound.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>N.T.</hi> at the entrance into the <hi>Old-Sping-Garden,</hi> 1983</p>
+         </div>
+      </back>
+   </text>
+</TEI>
